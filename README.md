@@ -6,6 +6,7 @@ This is a web based application developed for travel related based website in in
 
 
 **Project Link** -https://agreeable-dune-05052d110.2.azurestaticapps.net/
+**static webapp demo URL**-
 **project demo video link** - 
 
 ## Azure technologies used for Project
