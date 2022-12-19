@@ -5,7 +5,7 @@ This is a web based application developed for travel related based website in in
 ### This web based travel application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -
+**Project Link** - https://yeswanthroy.github.io/project22/
 **static webapp demo URL**-https://agreeable-dune-05052d110.2.azurestaticapps.net
 **project demo video link** - 
 
@@ -19,7 +19,7 @@ This is a web based application developed for travel related based website in in
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, travel topics and travel related information etc.
+- Has collection of many web pages including Home, About,Destinations,Contact,travelbot,and travel related information etc.
 - User can know about travel information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
